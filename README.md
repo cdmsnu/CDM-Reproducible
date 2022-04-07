@@ -1,4 +1,4 @@
 # CDM-Reproducible
 # SNUBH-SNU CDM project
 
-## Enriched linear regression
+## How to run
