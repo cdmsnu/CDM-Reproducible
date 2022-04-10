@@ -7,5 +7,5 @@
 
 ## Differential Privacy
 
-### Kaplan-Meier curve with DP
-### Log-rank test of DP version KM curve
+- Kaplan-Meier curve with DP
+- Log-rank test of DP version KM curve
