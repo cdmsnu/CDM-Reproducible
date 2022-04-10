@@ -2,7 +2,7 @@
 
 ### Constructing Kaplan-Meier curves with DP
 
-Applying noise `$z \sim Laplace(S/\epsilon)$`
+Applying noise ```r $z \sim Laplace(S/\epsilon)$```
 
 ### Log-rank test
 
