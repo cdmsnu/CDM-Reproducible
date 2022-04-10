@@ -5,7 +5,7 @@
 ## Meta-analysis
 
 - p-value meta analysis
-- Bayesin hierarchical meta analysis
+- Bayesian hierarchical meta analysis
 - Forest plot
 
 ## Differential Privacy
