@@ -2,9 +2,7 @@
 
 ### Constructing Kaplan-Meier curves with DP
 
-Applying noise `z~Laplace(S/e)`
-
-z~Laplace(S/ε)
+Applying noise `z~Laplace(S/ε)`
 
 ### Log-rank test
 
