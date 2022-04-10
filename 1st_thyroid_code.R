@@ -171,3 +171,4 @@ bma_df[,2]=round(bma_df[,2],4)
 bma_df
 #prob=sum(bma$posterior_d(seq(0, 2, 0.01))*0.01)
 #plot_posterior(bma, parameter = "d", from = -0.4, to= 0.8, main= paste("P(HR > 1 | X)=", round(prob, 4)))
+
