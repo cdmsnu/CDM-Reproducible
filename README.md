@@ -1,6 +1,5 @@
-# CDM-Reproducible
-# SNUBH-SNU CDM project
-
+# SNUBH-SNU CDM project - reproducible
+ 
 ## Hyperthyroid
 
 ## Meta-analysis
