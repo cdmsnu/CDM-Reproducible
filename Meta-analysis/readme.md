@@ -2,7 +2,7 @@
 
 ### p-value meta analysis
 
-Calculated p-values of various periods
+Calculated p-values of various periods drew forest plots
 
 - 1 year ~ 5 years
 - 1 year ~ 10 years
